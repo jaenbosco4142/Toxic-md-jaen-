@@ -1,197 +1,91 @@
----
-
-## `𝙏𝙤𝙭𝙞𝙘 𝙈𝘿 𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥 𝘽𝙤𝙩`
+🤖 TOXIC-MD WHATSAPP BOT
 
 <p align="center">
-  <b>A powerful, simple & user-friendly WhatsApp Multi-Device WA Bot</b><br>
-  Built for group control, automation and fun 🚀
-</p>
+<img src="https://i.imgur.com/7V5FQqS.png" width="300"/>
+</p><p align="center">
+<b>A Powerful WhatsApp Multi-Device Bot Built With Baileys</b>
+</p>---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/xhclintohn/Toxic-MD/main/xh_clinton/IMG-20251220-WA0025.jpg" width="100%" />
-</p>
+👤 Owner Information
 
----
-
-## ✅ About Toxic-MD
-
-**Toxic-MD** is a modern WhatsApp bot built using **Baileys Multi-Device**.  
-It helps you manage groups, automate tasks, protect chats, and enjoy fun commands — all in one bot.
-
-### 🔹 Key Highlights
-- ✔ Multi-Device Support (No constant QR scan)
-- ✔ Fast & Stable
-- ✔ Easy to Deploy
-- ✔ Beginner Friendly
-- ✔ Works on any hosting platform
+- Name: Jaen Bosco
+- WhatsApp: +255637721770
+- Bot Name: Toxic-MD
 
 ---
 
-## 🚀 Deploy the Bot (Very Easy)
+✨ Bot Features
 
-### 🔹 Step 1: Fork the Repository  
-[![TAP HERE TO FORK](https://img.shields.io/badge/TAP%20HERE%20TO-FORK%20REPO-brightgreen?style=for-the-badge&logo=github)](https://github.com/xhclintohn/Toxic-MD/fork)
-
----
-
-### 🔹 Step 2: Pair WhatsApp  
-[![TAP HERE TO PAIR](https://img.shields.io/badge/TAP%20HERE%20TO-SCAN%20QR-blue?style=for-the-badge&logo=qrcode)](https://toxicmdforkcheck.vercel.app/)
-
----
-
-### 🔹 Step 3: Deploy the Bot  
-[![TAP HERE TO DEPLOY](https://img.shields.io/badge/TAP%20HERE%20TO-DEPLOY%20BOT-orange?style=for-the-badge&logo=rocket)](https://toxicmdforkcheck.vercel.app/)
+- ⚡ Fast & Stable
+- 🤖 Multi-Device Support
+- 🛡️ Group Protection
+- 🎮 Fun Commands
+- 🔧 Easy Setup
+- 📂 Auto Commands
 
 ---
 
-## 🌍 Community & Support
+🚀 Deploy The Bot
 
-### 🔹 Join Official WhatsApp Group  
-[![TAP HERE TO JOIN GROUP](https://img.shields.io/badge/TAP%20HERE%20TO-JOIN%20WHATSAPP%20GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/GoXKLVJgTAAC3556FXkfFI)
+Step 1
 
-### 🔹 Contact the Developer  
-[![TAP HERE TO CONTACT DEV](https://img.shields.io/badge/TAP%20HERE%20TO-CONTACT%20DEVELOPER-brightgreen?style=for-the-badge&logo=whatsapp)](https://api.whatsapp.com/send?phone=254735342808)
+Fork this repository.
 
----
+Step 2
 
-## ⚡ Quick Start
+Get your SESSION ID.
 
-### 🔹 Get Session ID
+Step 3
 
-Visit: https://toxicpairing.site Open WhatsApp → Linked Devices → Pair
+Deploy the bot using one of the platforms below.
 
-### 🔹 Environment Variables
-```env
-SESSION_ID=YOUR_SCANNED_SESSION
-PREFIX=.
-```
+🚀 Deploy to Heroku
 
----
+""Deploy" (https://www.herokucdn.com/deploy/button.svg)" (https://heroku.com)
 
-## `✨ Bot Features ;)`
+🚀 Deploy to Railway
 
-🤖 Automation Features
+""Deploy on Railway" (https://railway.app/button.svg)" (https://railway.app)
 
-Auto Read Messages
+🚀 Deploy to Render
 
-Auto Blue Tick
-
-Auto View Status
-
-Auto Like Status
-
-Custom Auto Replies
-
-
+""Deploy to Render" (https://render.com/images/deploy-to-render-button.svg)" (https://render.com)
 
 ---
 
-🛡️ Group Protection & Moderation
+📜 Bot Commands
 
-Anti-Link (Blocks WhatsApp & External links)
-
-Anti-Delete Messages (Retrieve deleted messages)
-
-View-Once Media Recovery
-
-Anti-Status Mention
-
-Welcome & Goodbye Messages
-
-Admin-Only Commands
-
-Auto Warn & Auto Kick System
-
-
+Command| Description
+".menu"| Show all commands
+".ping"| Check bot speed
+".owner"| Show owner
+".tagall"| Tag all members
+".kick"| Remove group member
+".antilink"| Protect group
 
 ---
 
-⚙️ Useful Tools
+⚠️ Important
 
-Sticker Maker (Image / Video / GIF)
-
-QR Code Generator
-
-Media Downloader
-
-Profile & Group Info Commands
-
-
+Never share your SESSION ID with anyone.
 
 ---
 
-🎮 Fun Commands
+💬 Support
 
-Random Memes
+For help contact the owner.
 
-Quotes & Facts
-
-Mini Games
-
-AI-Style Chat Commands
-
-
+📱 WhatsApp: +255637721770
 
 ---
 
-⚡ System Controls
+⭐ Credits
 
-Public / Private Mode
-
-Bot Ping & Status
-
-Restart Bot
-
-Menu & Help Commands
-
-
-
----
-
-🛡️ Safety Notice
-
-> ⚠️ Using unofficial WhatsApp APIs may violate WhatsApp Terms of Service.
-This project is self-hosted.
-
-
-
-✔ Stay Safe
-
-Use a secondary WhatsApp number
-
-Enable Two-Step Verification
-
-Avoid spamming commands
-
-
-
----
-
-📌 Troubleshooting
-
-Session expired? → Re-pair WhatsApp
-
-Bot not responding? → Check server logs
-
-Ban warning? → Reduce automation & use private mode
-
-
-
----
-
-📚 Disclaimer
-
-> ⚠️ All features of Toxic-MD are provided strictly for educational purposes only.
-The developer is not responsible for misuse, bans, or policy violations.
-
-
-
+- Toxic-MD Developers
+- Baileys Library
 
 ---
 
 <p align="center">
-  <b>🔥 Toxic-MD — Simple • Powerful • Educational 🔥</b>
+Made with ❤️ by Jaen Bosco
 </p>
-
----
-
